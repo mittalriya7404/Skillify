@@ -155,4 +155,4 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 Pull requests, bug reports, and feature suggestions are welcome!
 
-📧 Contact: [mittalriya@gmail.com](https://github.com/mittalriya7404)
+📧 Contact: [mittalriya7404@gmail.com](https://github.com/mittalriya7404)
